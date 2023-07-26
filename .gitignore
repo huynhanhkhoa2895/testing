@@ -1,0 +1,9 @@
+fe/node_modules
+fe/.next
+fe/.env
+
+be/node_modules
+be/.env
+be/dist
+
+.idea
